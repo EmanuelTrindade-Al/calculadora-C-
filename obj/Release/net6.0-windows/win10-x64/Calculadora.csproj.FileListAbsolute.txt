@@ -1,0 +1,15 @@
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\Calculadora.exe
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\Calculadora.deps.json
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\Calculadora.runtimeconfig.json
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\Calculadora.dll
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\Calculadora.pdb
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.csproj.AssemblyReference.cache
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.AssemblyInfoInputs.cache
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.AssemblyInfo.cs
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.dll
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\refint\Calculadora.dll
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.pdb
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\Calculadora.genruntimeconfig.cache
+C:\Users\magna\Calculadora\obj\Release\net6.0-windows\win10-x64\ref\Calculadora.dll

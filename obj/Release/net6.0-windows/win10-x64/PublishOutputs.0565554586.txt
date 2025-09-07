@@ -1,0 +1,5 @@
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\publish\Calculadora.exe
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\publish\Calculadora.dll
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\publish\Calculadora.deps.json
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\publish\Calculadora.runtimeconfig.json
+C:\Users\magna\Calculadora\bin\Release\net6.0-windows\win10-x64\publish\Calculadora.pdb
